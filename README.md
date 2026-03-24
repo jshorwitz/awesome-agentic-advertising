@@ -25,7 +25,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 ### Cross-Platform
 
-- **[Synter Media](https://syntermedia.ai/mcp)** - Cross-platform MCP server supporting Google, Meta, LinkedIn, Reddit, Microsoft, TikTok, X (7 platforms). 100+ tools including campaign creation, AI creative generation, and budget optimization. Open source. [GitHub](https://github.com/jshorwitz/synter-media)
+- **[Synter Media](https://syntermedia.ai/mcp)** - Cross-platform MCP server supporting Google, Meta, LinkedIn, Reddit, Microsoft, TikTok, X (7 platforms). 100+ tools including campaign creation, AI creative generation, and budget optimization. Open source. [GitHub](https://github.com/Synter-Media-AI/mcp-server)
 - **[Adzviser](https://adzviser.com)** - Multi-platform ad data connectivity for AI agents. Supports Google Ads, Meta Ads, and more.
 
 ### Google Ads
