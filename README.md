@@ -12,6 +12,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
   - [Meta (Facebook/Instagram) Ads](#meta-facebookinstagram-ads)
   - [Amazon Ads](#amazon-ads)
   - [TikTok Ads](#tiktok-ads)
+  - [Microsoft (Bing) Ads](#microsoft-bing-ads)
   - [LinkedIn Ads](#linkedin-ads)
   - [General Purpose](#general-purpose)
 - [Protocols & Standards](#protocols--standards)
@@ -45,8 +46,13 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 - **[AdsMCP](https://adsmcp.com)** - Specialized TikTok Ads MCP server. Campaign management, performance analytics, and optimization.
 
+### Microsoft (Bing) Ads
+
+- **[mcp-bing-ads](https://github.com/mharnett/mcp-bing-ads)** - MCP server for Microsoft Advertising (Bing Ads) — campaigns, ad groups, keywords, performance reports, search term reports, shared negative keyword lists, and budget management. Built-in resilience with retry, circuit breaker, and response size limiting. [npm](https://www.npmjs.com/package/mcp-bing-ads) · [MCP Registry](https://registry.modelcontextprotocol.io/servers/io.github.mharnett/bing-ads)
+
 ### LinkedIn Ads
 
+- **[mcp-linkedin-ads](https://github.com/mharnett/mcp-linkedin-ads)** - MCP server for LinkedIn Campaign Manager API — campaigns, ad groups, creatives, targeting, analytics, and UTM management. Production-proven with 65+ campaigns. Built-in resilience with retry, circuit breaker, and response size limiting. [npm](https://www.npmjs.com/package/mcp-linkedin-ads) · [MCP Registry](https://registry.modelcontextprotocol.io/servers/io.github.mharnett/linkedin-ads)
 - Available primarily through middleware platforms like Zapier MCP.
 - **Apify LinkedIn Ads Scraper MCP** - Competitive intelligence and ad library data extraction.
 
