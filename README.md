@@ -32,6 +32,8 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 - **[Google Ads MCP (Official)](https://github.com/nicholasgoulet/google-ads-mcp-server)** - Google's official open-source MCP server for Google Ads API. Read-only: diagnostics and analytics via GAQL queries.
 - Community alternatives with read-write support exist on GitHub.
+- **[toprank](https://github.com/nowork-studio/toprank)** - Open-source Claude Code plugin (MIT) providing 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API. Ships fixes directly from Claude Code: meta tag rewrites, JSON-LD schema markup, keyword bid adjustments, and content pushes to WordPress/Strapi/Contentful/Ghost.
+
 
 ### Meta (Facebook/Instagram) Ads
 
