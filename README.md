@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jshorwitz-awesome-agentic-advertising-badge.png)](https://mseep.ai/app/jshorwitz-awesome-agentic-advertising)
+
 # Awesome Agentic Advertising [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of tools, MCP servers, protocols, and resources for AI-powered advertising campaign management.
