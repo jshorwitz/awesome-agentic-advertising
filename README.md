@@ -13,6 +13,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
   - [Amazon Ads](#amazon-ads)
   - [TikTok Ads](#tiktok-ads)
   - [LinkedIn Ads](#linkedin-ads)
+  - [Ad Tech & Programmatic](#ad-tech--programmatic)
   - [General Purpose](#general-purpose)
 - [Protocols & Standards](#protocols--standards)
 - [AI Creative Generation](#ai-creative-generation)
@@ -49,6 +50,10 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 - Available primarily through middleware platforms like Zapier MCP.
 - **Apify LinkedIn Ads Scraper MCP** - Competitive intelligence and ad library data extraction.
+
+### Ad Tech & Programmatic
+
+- **[vastlint](https://vastlint.org)** - VAST XML validation MCP server for programmatic video ad pipelines. Tools: `validate_vast`, `validate_vast_url`, `list_rules`, `explain_rule`, `fix_vast`. Compatible with the IAB Tech Lab AAMP Buyer Agent SDK. Hosted at `vastlint.org/mcp` or self-hostable. [GitHub](https://github.com/aleksUIX/vastlint)
 
 ### General Purpose
 
