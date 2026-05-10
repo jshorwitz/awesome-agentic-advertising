@@ -32,6 +32,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 - **[Google Ads MCP (Official)](https://github.com/nicholasgoulet/google-ads-mcp-server)** - Google's official open-source MCP server for Google Ads API. Read-only: diagnostics and analytics via GAQL queries.
 - Community alternatives with read-write support exist on GitHub.
+- **[NotFair](https://notfair.co)** - Hosted Google Ads MCP server. Diagnose campaign performance (CPA, ROAS, search-term waste, quality scores), recommend optimizations (bids, budgets, negative keywords, ad copy), and execute approved changes via the Google Ads API with a built-in human-approval gate. Free tier + paid plans.
 
 ### Meta (Facebook/Instagram) Ads
 
