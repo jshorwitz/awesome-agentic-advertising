@@ -49,6 +49,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 - Available primarily through middleware platforms like Zapier MCP.
 - **Apify LinkedIn Ads Scraper MCP** - Competitive intelligence and ad library data extraction.
+- [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
 
 ### General Purpose
 
