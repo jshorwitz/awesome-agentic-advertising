@@ -59,6 +59,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 - **[MCP (Model Context Protocol)](https://modelcontextprotocol.io)** - Open standard by Anthropic (Nov 2024) for connecting AI systems with external tools. The foundation for all ad platform MCP servers.
 - **[AdCP (Ad Context Protocol)](https://adcp.dev)** - Open standard for advertising automation over MCP and A2A (Agent2Agent). Version 3.0 beta. Aims to standardize the full buy/sell cycle.
 - **[A2A (Agent2Agent)](https://github.com/google/A2A)** - Google's agent-to-agent communication protocol. Used by AdCP for inter-agent ad operations.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Solana on-chain trust scoring for AI agents. Verify wallet reputation before agent-to-agent x402 micropayments. Remote MCP: `https://intel.twzrd.xyz/mcp`
 
 ## AI Creative Generation
 
