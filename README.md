@@ -91,6 +91,10 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 - [What is Agentic Advertising?](https://syntermedia.ai/blog/what-is-agentic-advertising) - Overview of AI-agent-driven advertising
 - [MCP Specification](https://spec.modelcontextprotocol.io) - Official MCP protocol specification
 
+### Example Projects
+
+- **[Agentic Advertising Demo / Campaign Optimizer](https://github.com/yli949-gif/ad-campaign-optimizer)** - Offline runnable MVP that audits mock ad campaign performance, recommends budget and bid optimizations, applies safety guardrails, and generates paused campaign drafts. No API keys required.
+
 ## Communities
 
 - [r/PPC](https://reddit.com/r/PPC) - PPC advertising community
