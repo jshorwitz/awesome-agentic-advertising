@@ -27,6 +27,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 - **[Synter Media](https://syntermedia.ai/mcp)** - Cross-platform MCP server supporting Google, Meta, LinkedIn, Reddit, Microsoft, TikTok, X (7 platforms). 100+ tools including campaign creation, AI creative generation, and budget optimization. Open source. [GitHub](https://github.com/Synter-Media-AI/mcp-server)
 - **[Adzviser](https://adzviser.com)** - Multi-platform ad data connectivity for AI agents. Supports Google Ads, Meta Ads, and more.
+- **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source (MIT) Claude Code agent skills for SEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Skill areas: [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads).
 
 ### Google Ads
 
