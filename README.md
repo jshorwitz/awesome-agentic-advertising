@@ -13,6 +13,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
   - [Amazon Ads](#amazon-ads)
   - [TikTok Ads](#tiktok-ads)
   - [LinkedIn Ads](#linkedin-ads)
+  - [Ad Tech & Programmatic](#ad-tech--programmatic)
   - [General Purpose](#general-purpose)
 - [Protocols & Standards](#protocols--standards)
 - [AI Creative Generation](#ai-creative-generation)
@@ -49,6 +50,10 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 - Available primarily through middleware platforms like Zapier MCP.
 - **Apify LinkedIn Ads Scraper MCP** - Competitive intelligence and ad library data extraction.
+
+### Ad Tech & Programmatic
+
+- **[rtblint](https://rtblint.org)** - OpenRTB bid request/response validation MCP server for programmatic pipelines. Tools: `validate_bid_request`, `validate_bid_response`, `list_openrtb_versions`. Checks payloads against versioned IAB Tech Lab OpenRTB spec snapshots (2.0 through 2.6): malformed JSON, missing fields, deprecated/moved paths, out-of-range enums. Self-hostable via `cargo install rtblint-mcp`. [GitHub](https://github.com/aleksUIX/rtblint)
 
 ### General Purpose
 
