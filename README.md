@@ -67,6 +67,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 - **[Runway](https://runwayml.com)** - AI video generation for creative production.
 - **[Luma](https://lumalabs.ai)** - AI video generation (Dream Machine).
 - **[Creatify](https://creatify.ai)** - AI video generation with avatar support for UGC-style ads.
+- **[AdRoast](https://www.adroast.ai)** - AI image/video ad generator with pre-launch creative scoring. Free open [Meta scorecard + TikTok hooks kit](https://github.com/Mustak4/adroast-creative-kit).
 - **[Flux](https://blackforestlabs.ai)** - Open image generation model by Black Forest Labs.
 
 ## Conversion Tracking
@@ -87,6 +88,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 ## Articles & Resources
 
+- [AdRoast Creative Kit](https://github.com/Mustak4/adroast-creative-kit) - Free Meta creative scorecard + TikTok hooks cheat sheet (educational templates).
 - [What is an Ad Platform MCP Server?](https://syntermedia.ai/blog/best-ad-platform-mcp-servers) - Comparison of all major ad platform MCP servers (Feb 2026)
 - [What is Agentic Advertising?](https://syntermedia.ai/blog/what-is-agentic-advertising) - Overview of AI-agent-driven advertising
 - [MCP Specification](https://spec.modelcontextprotocol.io) - Official MCP protocol specification
