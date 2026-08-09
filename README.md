@@ -32,6 +32,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 - **[Google Ads MCP (Official)](https://github.com/nicholasgoulet/google-ads-mcp-server)** - Google's official open-source MCP server for Google Ads API. Read-only: diagnostics and analytics via GAQL queries.
 - Community alternatives with read-write support exist on GitHub.
+- [AdCopilot](https://github.com/AtromxIntelligence/adcopilot-mcp) - Hosted Google Ads MCP server with 32 read/write tools (campaigns, budgets, keywords, assets) under the user's own Google sign-in, inside Claude, ChatGPT, Copilot, Gemini CLI or Cursor. Structurally cannot delete: remove-tools withheld, REMOVED status refused server-side. Free 7-day pilot.
 
 ### Meta (Facebook/Instagram) Ads
 
