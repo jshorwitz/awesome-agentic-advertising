@@ -68,6 +68,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 - **[Luma](https://lumalabs.ai)** - AI video generation (Dream Machine).
 - **[Creatify](https://creatify.ai)** - AI video generation with avatar support for UGC-style ads.
 - **[Flux](https://blackforestlabs.ai)** - Open image generation model by Black Forest Labs.
+- **[SuperCMO Skills](https://github.com/SupercmoHQ/superCMO-skills)** - Open-source agent skills + a local MCP server that generate finished ad creative from a product photo and a brief: UGC videos, ad videos, product photography, and image ads. Casts AI actors, picks the best image/video models, and edits any-length clips with consistent actor and product. Also researches competitor ads. BYO or managed keys. Apache-2.0.
 
 ## Conversion Tracking
 
