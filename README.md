@@ -52,6 +52,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 
 ### General Purpose
 
+- **[AdMapix](https://www.admapix.com)** - AI ad creative intelligence for competitor research across mobile games, apps, and ecommerce.
 - **[Zapier MCP](https://zapier.com)** - Universal connector supporting Google Ads, Meta Ads, LinkedIn Ads, and thousands of other tools via Zapier automations.
 
 ## Protocols & Standards
