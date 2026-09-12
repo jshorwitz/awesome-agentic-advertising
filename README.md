@@ -82,6 +82,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 - **[Claude Desktop](https://claude.ai/download)** - Anthropic's desktop client with native MCP support.
 - **[Cursor](https://cursor.sh)** - AI code editor with MCP integration.
 - **[Amp](https://ampcode.com)** - Sourcegraph's AI coding agent with MCP support.
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - **[LangGraph](https://langchain-ai.github.io/langgraph/)** - Framework for building agentic applications.
 - **[CrewAI](https://crewai.com)** - Framework for orchestrating AI agent teams.
 
