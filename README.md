@@ -31,6 +31,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 ### Google Ads
 
 - **[Google Ads MCP (Official)](https://github.com/nicholasgoulet/google-ads-mcp-server)** - Google's official open-source MCP server for Google Ads API. Read-only: diagnostics and analytics via GAQL queries.
+- **[Unfetch Google Ads MCP](https://unfetch.com)** - Hosted, OAuth-authenticated reporting for Google Ads campaigns, spend, conversions, keywords, and search terms, with Google Analytics, Google Search Console, and keyword research for paid and organic comparisons. Read-only access to connected accounts. [Setup](https://unfetch.com/plugin)
 - Community alternatives with read-write support exist on GitHub.
 
 ### Meta (Facebook/Instagram) Ads
