@@ -58,6 +58,8 @@ A curated list of MCP servers, tools, protocols, foundational models, and develo
 - **[The Trade Desk API](https://api.thetradedesk.com/)** - Demand-side platform (DSP) REST API for omnichannel programmatic media, CTV, and Unified ID 2.0 (UID2).
 - **[Apple Search Ads API](https://developer.apple.com/documentation/apple_search_ads)** - Programmatic management of App Store search campaigns, keyword bids, and attribution reporting.
 
+- **[GoAnyAPI](https://github.com/GoAnyAPI/goanyapi-mcp)** - Official MCP server and API for ad transparency and SEO data: Google Ads Transparency, ads statistics, SERP, keyword metrics, backlinks and website traffic.
+
 ## Protocols & Industry Standards
 
 - **[Model Context Protocol (MCP)](https://modelcontextprotocol.io)** - Open standard introduced by Anthropic for securely connecting AI agents to external tools, APIs, and databases.
