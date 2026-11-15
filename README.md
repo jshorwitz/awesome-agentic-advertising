@@ -72,6 +72,7 @@ A curated list of MCP servers, tools, protocols, foundational models, and develo
 - **[rtblint](https://github.com/aleksUIX/rtblint)** - Open-source (Apache-2.0, Rust) OpenRTB bid request and response validation MCP server (`rtblint-mcp`) supporting OpenRTB 2.5 and 3.0 specs.
 - **[Synter Multi-Language SDKs & CLI](https://github.com/Synter-Media-AI/mcp-server)** - Open-source client libraries (Python, TypeScript, Go, Rust) and command-line interface (`synter`) for programmatic campaign automation and agent orchestration.
 - **[Zapier MCP](https://zapier.com)** - Universal automation bridge connecting AI agents to 7,000+ business applications, CRM events, and webhook triggers.
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** - Remote Streamable HTTP MCP server for discovering live-music venues, routing tours, and searching touring acts across the US and Canada.
 
 ## AI Creative Generation & Synthetic Media
 
